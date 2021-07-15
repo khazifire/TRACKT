@@ -1,6 +1,6 @@
-# Daily Moments
+#TRACKT
 
-This example is part of the Ionic React course.
+TRACKT is a productivity tool, which helps you keep track of time spent on any given activities. 
 
 ## Links
 
